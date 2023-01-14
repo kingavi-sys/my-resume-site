@@ -1,0 +1,165 @@
+/*html tags*/
+body{
+    background-color: #EAF6F6;
+    color:#40514E;
+    margin: 0;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size:5.625rem;
+    color:#66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    font-weight:normal;
+    color:#66BFBF;
+    padding: 10px auto;
+    margin:8px auto;
+
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+h4{
+    margin-top: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+    text-decoration: none;
+}
+p{
+    line-height: 2;
+}
+/* top-container */
+.top-container{
+    background-color: #EAF6F6;
+    padding-top: 100px;
+    position:relative;
+}
+.top-cloud{
+    position:absolute;
+    right: 300px;
+    top:50px;
+}
+.bottom-cloud{
+    position:absolute;
+    left:250px;
+    bottom: 300px;
+}
+
+/* middle-container */
+.middle-container{
+    margin:100px 0;
+}
+.profile-img{
+    width:15%;
+}
+.intro{
+    width:53%;
+    margin: auto;
+}
+.edu{
+    margin-top: 100px;
+}
+.edu-table{
+    width: 60%;
+    margin: 21px auto 1px;
+    color: #40514E;
+}
+.skills{
+    margin-top: 100px;
+}
+.skill-row{
+    margin:100px auto;
+    text-align: start;
+    width: 50%;
+}
+.fe-img{
+    position: relative;
+    bottom: 12px;
+    width:34%;
+    float: left;
+    margin-right: 30px;
+    border: solid 1.5px;
+    border-color: #11999E;
+    border-radius: 10%;
+}
+.dj-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+    border: solid 1.5px;
+    border-color: #11999E;
+    border-radius: 10%;
+}
+.bt-img{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+    border: solid 1.5px;
+    border-color: #11999E;
+    border-radius: 10%;
+}
+.py-img{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+    border: solid 1.5px;
+    border-color: #11999E;
+    border-radius: 10%;
+
+}
+.pro-card{
+    width: 60%;
+    margin: 48px auto 0;
+}
+.projects-des{
+    line-height: 2;
+    background-color: transparent;
+    color:#40514E;
+    border-color: #11999E;
+    border-radius: 10%;
+    
+}
+.project-img{
+    width: 30%;
+    border: solid 1.5px;
+    border-radius: 12%;
+    margin: 0.5rem auto;
+}
+.message{
+    margin: 100px auto 50px;
+}
+.smily-icon{
+    color: #11999E;
+}
+.smily-icon-mid{
+    margin: auto 20px;
+    color: #11999E;
+}
+.message2{
+    margin: 50px;
+}
+.social-link:hover{
+    color: green;
+}
+
+/* bottom-container */
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 40px 0 20px;
+}
+.bottom{
+    margin-bottom: 1px;
+}
+.bottom-p{
+    color: #EAF6F6;
+}
